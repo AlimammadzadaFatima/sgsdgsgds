@@ -1,0 +1,6 @@
+.BOX h2 { color: blue;}
+.BOX2 h2 {color: blue;}
+.BOX {display: inline-block; width: 49%; height: 50%;}
+.BOX2 { display: inline-block; width: 49%; height: 50%; }
+.BOX {border-left-style: dotted ; margin: 5px; }
+.BOX2 {border-left-style: dotted ; margin: 5px; }
